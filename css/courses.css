@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*title*/
+#title{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 600px;
+    
+}
+#programe{
+    margin-top: 30px;
+}
+.img-h{
+    height: 350px;
+    padding: 0 5px;
+
+}
+.r-button{
+    padding: 5px 30px;
+    margin-left: 50px;
+    background-color:#FD1015;
+    color: #fff;
+    
+    
+}
+.title-h1{
+    display: flex;
+    margin-left: 220px;
+    margin-top: -60px;
+}
+.icon-icon{
+    color:#FD1015;
+    display: flex;
+}
+.title-div{
+    margin: 100px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

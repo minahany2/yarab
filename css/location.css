@@ -1,0 +1,67 @@
+
+body{
+    margin: 0 ;
+    padding: 0;
+}
+/*location*/
+.fa-laptop-code {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 480px;
+   
+    color: #FD1015 ;
+   
+}
+.p-location{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+ 
+}
+.h5-location{
+    padding-bottom: 1.5rem;
+    text-align: center;
+    font-weight: 350;
+    font-size: 28px;
+}
+/*card*/
+.card{
+    width: 100%;
+}
+.card-title{
+    font-weight: 700;
+    line-height: 1.4;
+    color: #20252b;
+    font-size: 1.5rem; 
+}
+.country{
+    color: #FD1015; 
+    background-color:#FCF5E8 ;
+   border-radius: 8px;
+    padding:10px 30px;
+}
+.thirdrow{
+    margin-top: 40px;
+}
+/*remote*/
+#remote{
+    margin: 50px 0;
+}
+.remote-img{
+    height: 387px;
+    width: 395px;
+    border-radius: 8px;
+    margin-left: 150px;
+
+}
+.remote-h4{
+    color: #FD1015; 
+    padding-top: 50px;
+    font-size: 40px; 
+}
+.p-remote{
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 26px;
+}
